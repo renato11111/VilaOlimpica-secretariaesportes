@@ -1,0 +1,72 @@
+
+a {
+    color: inherit;
+}
+
+
+/*Página index- login*/
+
+#painelLogin{
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 1px 5px 30px #868585;
+    
+}
+
+#painelLogin h5 {
+    text-align: center;
+    font-size: 32px;
+}
+
+
+
+/*Manu de navegação */
+
+
+.p-2{
+    color: #ffffff;
+    text-decoration: none;
+}
+.p-2 :hover{
+    color: #cccccc;
+}
+
+main {
+    padding-top: 20px;
+}
+
+#btn-cadastar{
+    padding-left: 10px;
+    
+}
+
+#perfil {
+    font-size: 16px;
+}
+
+/* copy */
+
+#copy-area {
+    background-color: #f1f1f1;
+}
+#copy-area .container {
+    padding: 10px 0;
+    text-align: center;
+}
+
+#copy-area .container p {
+    margin-bottom: 0;
+}
+
+#copy-area .container a {
+    font-weight: bold;
+    color: #444 ;
+}
+
+#copy-area .container a:hover {
+    text-decoration: none;
+    color: #000 ;
+}
